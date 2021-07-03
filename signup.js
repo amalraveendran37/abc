@@ -15,6 +15,7 @@ const cpswd=document.getElementById('cpswd');
 //     var validation = true;
 
 // });
+var validation = true;
 
 function checkInputs(){
     //get th evalues from the inputs
